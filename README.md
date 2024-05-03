@@ -25,6 +25,3 @@ Furthermore, from the Family Size it is easier to see whether or not the passeng
 
 ## Files used
 train.csv
-
-## Benefits of Decision Tree Classifier
-1. Decision tree classifiers are easy to understand and interpret. This is useful for understanding the logic behind the predictions.

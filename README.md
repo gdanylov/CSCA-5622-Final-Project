@@ -1,6 +1,9 @@
 # Decision Tree Classifier for Titanic Dataset
 ## Objective
-Create a model that can predict which passengers survived on the Titanic.
+The accident that occurred on the Titanic is one of the most infamous shipwrecks of all time. On April 15, 1912, the Titanic collided with an iceberg, killing 1502 out of 2224 people on board. A large reason this was such a tragic accident was because there were not enough lifeboats to accommodate all the passengers on the boat. 
+This resulted in some people getting chosen to get on a lifeboat and some people were not chosen. This was a difficult decision, and certain characteristics such as sex, age, and class played a factor in the outcome of the passenger’s survival.
+The objective of this project was to build a model to predict whether or not a passenger survived the Titanic.
+
 
 ## Data Description
 Variables and Definitions:
@@ -22,3 +25,6 @@ Furthermore, from the Family Size it is easier to see whether or not the passeng
 
 ## Files used
 train.csv
+
+## Benefits of Decision Tree Classifier
+1. Decision tree classifiers are easy to understand and interpret. This is useful for understanding the logic behind the predictions.

@@ -2,7 +2,7 @@
 ## Objective
 The accident that occurred on the Titanic is one of the most infamous shipwrecks of all time. On April 15, 1912, the Titanic collided with an iceberg, killing 1502 out of 2224 people on board. A large reason this was such a tragic accident was because there were not enough lifeboats to accommodate all the passengers on the boat. 
 This resulted in some people getting chosen to get on a lifeboat and some people were not chosen. This was a difficult decision, and certain characteristics such as sex, age, and class played a factor in the outcome of the passenger’s survival.
-The objective of this project was to build a model to predict whether or not a passenger survived the Titanic.
+The objective of this project was to build a model to predict whether or not a passenger survived the Titanic, based on the features listed below.
 
 
 ## Data Description
